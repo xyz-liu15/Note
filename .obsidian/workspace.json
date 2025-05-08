@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git教程/在Git中设置用户名.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "在Git中设置用户名"
+              "title": "README"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown笔记/Markdown基础语法.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Markdown基础语法 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -146,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown笔记/Markdown基础语法.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Markdown基础语法 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown笔记/Markdown基础语法.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Markdown基础语法 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -258,8 +258,8 @@
   },
   "active": "23b12fc7a8e66c1c",
   "lastOpenFiles": [
-    "Git教程/在Git中设置提交电子邮件地址.md",
     "Git教程/在Git中设置用户名.md",
+    "Git教程/在Git中设置提交电子邮件地址.md",
     "README.md",
     "更改远程URL.md",
     "Git教程/关于远程仓库.md",
