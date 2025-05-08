@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Git教程/在Git中设置提交电子邮件地址.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "在Git中设置提交电子邮件地址"
             }
           },
           {
@@ -256,19 +256,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23b12fc7a8e66c1c",
+  "active": "8196159386761bc4",
   "lastOpenFiles": [
-    "Git教程/在Git中设置用户名.md",
     "Git教程/在Git中设置提交电子邮件地址.md",
-    "README.md",
-    "更改远程URL.md",
-    "Git教程/关于远程仓库.md",
     "Git教程/Git入门.md",
-    "Git教程",
-    "2025-05-08.md",
+    "Git教程/关于远程仓库.md",
+    "Git教程/在Git中设置用户名.md",
     "Markdown笔记/Markdown基础语法.md",
+    "README.md",
     "Markdown笔记/Markdown扩展语法.md",
     "Markdown笔记/Markdown速查表.md",
+    "更改远程URL.md",
+    "Git教程",
+    "2025-05-08.md",
     "Markdown笔记"
   ]
 }

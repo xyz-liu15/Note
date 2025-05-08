@@ -10,7 +10,7 @@
     {
       "id": "NEtYdQa8jR80rI_Af_KNk",
       "name": "文件",
-      "value": "#ffffff"
+      "value": "#61e619"
     }
   ],
   "fileColors": [
@@ -33,6 +33,26 @@
     {
       "path": "Git教程",
       "color": "1v_hBKwHYCMZV5eXqod0B"
+    },
+    {
+      "path": "Git教程/Git入门.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    },
+    {
+      "path": "Git教程/在Git中设置用户名.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    },
+    {
+      "path": "Git教程/在Git中设置提交电子邮件地址.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    },
+    {
+      "path": "Git教程/关于远程仓库.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    },
+    {
+      "path": "README.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
     }
   ]
 }
