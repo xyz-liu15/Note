@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Markdown扩展语法"
             }
+          },
+          {
+            "id": "14dca8691f15ca8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uv入门指南：更快的包管理工具实践.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "uv入门指南：更快的包管理工具实践"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,11 +211,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d2bdaa5822802f2",
+  "active": "14dca8691f15ca8c",
   "lastOpenFiles": [
+    "Markdown笔记/Markdown扩展语法.md",
+    "uv入门指南：更快的包管理工具实践.md",
+    "uv入门指南：更快的Python包管理工具实践",
     "Markdown笔记/Markdown基础语法.md",
     "第一天.md",
-    "Markdown笔记/Markdown扩展语法.md",
     "30天英语单词计划",
     "README.md",
     "Git教程/关于远程仓库.md",
