@@ -33,10 +33,14 @@
   },
   "Markdown笔记": {
     "iconName": "LiFiles",
-    "iconColor": "#b10202"
+    "iconColor": "#ff0000"
   },
   "Git教程": {
     "iconName": "LiFiles",
-    "iconColor": "#cf0707"
+    "iconColor": "#ff0000"
+  },
+  "30天英语单词计划": {
+    "iconName": "LiFiles",
+    "iconColor": "#ff0000"
   }
 }
