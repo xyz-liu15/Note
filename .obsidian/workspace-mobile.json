@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown笔记/Markdown基础语法.md",
+                "file": "Markdown笔记/Markdown扩展语法.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Markdown基础语法"
+              "title": "Markdown扩展语法"
             }
           }
         ]
@@ -173,14 +183,13 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "3d2bdaa5822802f2",
   "lastOpenFiles": [
-    "第一天.md",
     "Markdown笔记/Markdown基础语法.md",
+    "第一天.md",
     "Markdown笔记/Markdown扩展语法.md",
     "30天英语单词计划",
     "README.md",
