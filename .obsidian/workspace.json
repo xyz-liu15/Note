@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc098bd6f693cbf9",
+        "id": "cbc31730547fa310",
         "type": "tabs",
         "children": [
           {
-            "id": "1d43705c5b3c119b",
+            "id": "63ceb4148e94c5a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -33,6 +29,7 @@
       {
         "id": "74fcbaa7aad7ebe6",
         "type": "tabs",
+        "dimension": 67.93103448275862,
         "children": [
           {
             "id": "1e09e64b4c92c8fe",
@@ -53,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#号",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,6 +76,7 @@
       {
         "id": "f32058ebbea251ba",
         "type": "tabs",
+        "dimension": 32.068965517241374,
         "children": [
           {
             "id": "8196159386761bc4",
@@ -103,6 +101,7 @@
       {
         "id": "7ec9d4a487bb9146",
         "type": "tabs",
+        "dimension": 60.59850374064838,
         "children": [
           {
             "id": "e02d7f8e1f58f2cb",
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Markdown笔记/Markdown基础语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "Markdown基础语法 的出链列表"
             }
           },
           {
@@ -190,6 +189,16 @@
               "icon": "lucide-file",
               "title": "Markdown速查表"
             }
+          },
+          {
+            "id": "d46f98a604bb434c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 4
@@ -197,6 +206,7 @@
       {
         "id": "696d449f77b75314",
         "type": "tabs",
+        "dimension": 39.40149625935162,
         "children": [
           {
             "id": "f8d38eebeb7d3452",
@@ -224,15 +234,17 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "copilot:Open Copilot Chat": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e0b768311807370b",
+  "active": "1e09e64b4c92c8fe",
   "lastOpenFiles": [
+    "2025-05-08.md",
     "Markdown笔记/Markdown基础语法.md",
+    "README.md",
     "Markdown笔记/Markdown扩展语法.md",
     "Markdown笔记/Markdown速查表.md",
-    "README.md",
     "Markdown笔记"
   ]
 }

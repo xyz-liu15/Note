@@ -1,0 +1,34 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "1v_hBKwHYCMZV5eXqod0B",
+      "name": "文件夹",
+      "value": "#00d8f5"
+    },
+    {
+      "id": "NEtYdQa8jR80rI_Af_KNk",
+      "name": "文件",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Markdown笔记",
+      "color": "1v_hBKwHYCMZV5eXqod0B"
+    },
+    {
+      "path": "Markdown笔记/Markdown基础语法.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    },
+    {
+      "path": "Markdown笔记/Markdown扩展语法.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    },
+    {
+      "path": "Markdown笔记/Markdown速查表.md",
+      "color": "NEtYdQa8jR80rI_Af_KNk"
+    }
+  ]
+}
