@@ -34,5 +34,9 @@
   "Markdown笔记": {
     "iconName": "LiFiles",
     "iconColor": "#b10202"
+  },
+  "Git教程": {
+    "iconName": "LiFiles",
+    "iconColor": "#cf0707"
   }
 }
