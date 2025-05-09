@@ -4,3 +4,8 @@
 - deepseek api
 - embedding
 
+## 所需代码
+
+```python
+from langchian_deepseek import ChatDeepSeek
+```
