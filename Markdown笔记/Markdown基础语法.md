@@ -8,7 +8,8 @@ description: The Markdown elements outlined in the original design document.
 tags:
   - clippings
 ---
-## 基本语法
+## 基本语法```table-of-contents
+```
 
 原始设计文档中概述的 Markdown 元素。
 

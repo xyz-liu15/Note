@@ -3,8 +3,11 @@
   "calendar",
   "omnisearch",
   "obsidian-icon-folder",
+  "copilot",
   "templater-obsidian",
   "colored-tags",
   "obsidian-file-color",
-  "code-styler"
+  "obsidian-kanban",
+  "automatic-table-of-contents",
+  "obsidian-style-settings"
 ]
