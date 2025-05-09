@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown笔记/Markdown扩展语法.md",
+                "file": "uv入门指南：更快的包管理工具实践.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Markdown扩展语法"
+              "title": "uv入门指南：更快的包管理工具实践"
             }
           }
         ]
@@ -188,11 +188,17 @@
   },
   "active": "3d2bdaa5822802f2",
   "lastOpenFiles": [
+    "Git教程/Git入门.md",
+    "生成新的 SSH 密钥并将其添加到 ssh-agent.md",
+    "Git教程/关于远程仓库.md",
+    "Git 中缓存 GitHub 凭据.md",
+    "Markdown笔记/Markdown基础语法.md",
+    "Markdown笔记/Markdown扩展语法.md",
     "uv入门指南：更快的包管理工具实践.md",
-    "工具安装后使用.png",
-    "打包结果.png",
-    "包安装示例.png",
-    "项目初始化示例.png",
+    "images/工具安装后使用 1.png",
+    "images/打包结果 1.png",
+    "images/包安装示例 1.png",
+    "images/项目初始化示例 1.png",
     "images/项目初始化示例.png",
     "images/工具安装后使用.png",
     "images/打包结果.png",
@@ -200,17 +206,13 @@
     "images",
     "mmexport9300f336032143d7bc49fcc017773dd8_1746750393930 1.png",
     "mmexport9300f336032143d7bc49fcc017773dd8_1746750393930.png",
-    "Markdown笔记/Markdown扩展语法.md",
     "uv入门指南：更快的Python包管理工具实践",
-    "Markdown笔记/Markdown基础语法.md",
     "第一天.md",
     "30天英语单词计划",
     "README.md",
-    "Git教程/关于远程仓库.md",
     "/README.md",
     "Git教程/在Git中设置用户名.md",
     "Git教程/在Git中设置提交电子邮件地址.md",
-    "Git教程/Git入门.md",
     "/Git教程/在Git中设置用户名.md",
     "/Git教程/在Git中设置提交电子邮件地址.md",
     "/Git教程/关于远程仓库.md",
