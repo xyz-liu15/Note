@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
       "LiFiles",
       "LiArchive"
     ],
@@ -42,5 +43,6 @@
   "30天英语单词计划": {
     "iconName": "LiFiles",
     "iconColor": "#ff0000"
-  }
+  },
+  "images": "LiImages"
 }

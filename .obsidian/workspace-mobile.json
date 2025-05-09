@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Markdown扩展语法"
             }
-          },
-          {
-            "id": "14dca8691f15ca8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uv入门指南：更快的包管理工具实践.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uv入门指南：更快的包管理工具实践"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +186,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "14dca8691f15ca8c",
+  "active": "3d2bdaa5822802f2",
   "lastOpenFiles": [
-    "Markdown笔记/Markdown扩展语法.md",
     "uv入门指南：更快的包管理工具实践.md",
+    "工具安装后使用.png",
+    "打包结果.png",
+    "包安装示例.png",
+    "项目初始化示例.png",
+    "images/项目初始化示例.png",
+    "images/工具安装后使用.png",
+    "images/打包结果.png",
+    "images/包安装示例.png",
+    "images",
+    "mmexport9300f336032143d7bc49fcc017773dd8_1746750393930 1.png",
+    "mmexport9300f336032143d7bc49fcc017773dd8_1746750393930.png",
+    "Markdown笔记/Markdown扩展语法.md",
     "uv入门指南：更快的Python包管理工具实践",
     "Markdown笔记/Markdown基础语法.md",
     "第一天.md",
