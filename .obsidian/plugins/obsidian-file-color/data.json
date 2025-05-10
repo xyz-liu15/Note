@@ -11,6 +11,21 @@
       "id": "NEtYdQa8jR80rI_Af_KNk",
       "name": "文件",
       "value": "#61e619"
+    },
+    {
+      "id": "_I3lB3RUWismSuAglstnl",
+      "name": "Python学习笔记",
+      "value": "#0c38e9"
+    },
+    {
+      "id": "Y4TbPRusmOBSXEjHNFVBF",
+      "name": "images",
+      "value": "#ecce09"
+    },
+    {
+      "id": "0rvktw_aLXNcbQwbD40QU",
+      "name": "顶级对话",
+      "value": "#d41c9a"
     }
   ],
   "fileColors": [
@@ -57,6 +72,14 @@
     {
       "path": "langchain开发",
       "color": "1v_hBKwHYCMZV5eXqod0B"
+    },
+    {
+      "path": "images",
+      "color": "Y4TbPRusmOBSXEjHNFVBF"
+    },
+    {
+      "path": "顶级对话",
+      "color": "0rvktw_aLXNcbQwbD40QU"
     }
   ]
 }

@@ -8,62 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dcf8196413ed102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uv入门指南：更快的包管理工具实践.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uv入门指南：更快的包管理工具实践"
-            }
-          },
-          {
-            "id": "51aaef2d7d876ef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git教程/关于远程仓库.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "关于远程仓库"
-            }
-          },
-          {
             "id": "9e455275adb56468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uv入门指南：更快的包管理工具实践.md",
-                "mode": "source",
-                "source": false,
+                "file": "数据分析/如何计算摘要统计.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -76,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "uv入门指南：更快的包管理工具实践"
-            }
-          },
-          {
-            "id": "b1c6267d052846fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python学习笔记/3. Python 速览.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3. Python 速览"
+              "title": "如何计算摘要统计"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +43,7 @@
       {
         "id": "74fcbaa7aad7ebe6",
         "type": "tabs",
+        "dimension": 42.82238442822384,
         "children": [
           {
             "id": "1e09e64b4c92c8fe",
@@ -123,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -162,6 +90,7 @@
       {
         "id": "2cb6688b85b813ae",
         "type": "tabs",
+        "dimension": 32.846715328467155,
         "children": [
           {
             "id": "23b12fc7a8e66c1c",
@@ -184,10 +113,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "99c3c6d7b60be953",
+        "type": "tabs",
+        "dimension": 24.330900243309003,
+        "children": [
+          {
+            "id": "df98b8886a5a5644",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "d4ba515a883f3203",
@@ -196,7 +142,7 @@
       {
         "id": "7ec9d4a487bb9146",
         "type": "tabs",
-        "dimension": 27.477477477477475,
+        "dimension": 31.30128956623681,
         "children": [
           {
             "id": "e02d7f8e1f58f2cb",
@@ -262,13 +208,13 @@
             }
           },
           {
-            "id": "e0b768311807370b",
+            "id": "deec856f87b978ff",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "graph",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -279,62 +225,66 @@
               "state": {
                 "file": "Markdown笔记/Markdown速查表.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Markdown速查表"
-            }
-          },
-          {
-            "id": "d46f98a604bb434c",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
             }
           }
         ],
         "currentTab": 4
       },
       {
-        "id": "b03147a2d2a0e668",
+        "id": "696d449f77b75314",
         "type": "tabs",
-        "dimension": 27.477477477477475,
+        "dimension": 36.5767878077374,
         "children": [
           {
-            "id": "deec856f87b978ff",
+            "id": "f8d38eebeb7d3452",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       },
       {
-        "id": "696d449f77b75314",
+        "id": "147988914c369f31",
         "type": "tabs",
-        "dimension": 45.04504504504505,
+        "dimension": 32.12192262602579,
         "children": [
           {
-            "id": "f8d38eebeb7d3452",
+            "id": "e0b768311807370b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,16 +300,29 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "b1c6267d052846fb",
+  "active": "deec856f87b978ff",
   "lastOpenFiles": [
+    "数据分析/如何计算摘要统计.md",
+    "数据分析/pandas处理什么类型的数据？.md",
+    "数据分析/如何读取和写入表格数据.md",
+    "数据分析/如何选择DataFrame的子集.md",
+    "数据分析/如何在pandas中创建图表.md",
+    "数据分析/如何从现有列派生新列.md",
+    "数据分析/如何重塑表格布局.md",
+    "数据分析/如何组合来自多个表的数据.md",
+    "数据分析/如何轻松处理时间序列数据.md",
+    "数据分析/如何操作文本数据.md",
+    "数据分析",
+    "uv入门指南：更快的包管理工具实践.md",
+    "Git教程/关于远程仓库.md",
+    "Python学习笔记/Pytho速览.md",
     "Python学习笔记/4. 更多控制流工具.md",
     "Python学习笔记/3. Python 速览.md",
+    "顶级对话/2025-05-10.md",
+    "Markdown笔记/Markdown速查表.md",
     "Python.md",
     "Python学习笔记",
-    "顶级对话/2025-05-10.md",
-    "uv入门指南：更快的包管理工具实践.md",
     "顶级对话",
-    "Git教程/关于远程仓库.md",
     "Git教程/在Git中设置用户名.md",
     "Git教程/在Git中设置提交电子邮件地址.md",
     "Git教程/Git入门.md",
@@ -374,12 +337,7 @@
     "images/工具安装后使用.png",
     "images/包安装示例.png",
     "images",
-    "Markdown笔记/Markdown速查表.md",
-    "README.md",
-    "Markdown笔记/Markdown扩展语法.md",
-    "更改远程URL.md",
     "Git教程",
-    "2025-05-08.md",
     "Markdown笔记"
   ]
 }
