@@ -29,7 +29,7 @@ git config user.email "xyz.liu15@gmail.com"
 ```
 4. 确认你已在Git中正确设置了电子邮件地址：
 ```shell
-git condig user.email
+git config user.email
 > xyz.liu15@gmail.com
 ```
 5. 将邮箱地址添加到你的 GitHub 账户，以便您的提交被归因于你，并在你的贡献图中显示。

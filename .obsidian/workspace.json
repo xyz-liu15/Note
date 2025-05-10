@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG知识库问答系统.md",
+                "file": "Git教程/关于远程仓库.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RAG知识库问答系统"
+              "title": "关于远程仓库"
+            }
+          },
+          {
+            "id": "9e455275adb56468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uv入门指南：更快的包管理工具实践.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "uv入门指南：更快的包管理工具实践"
+            }
+          },
+          {
+            "id": "b1c6267d052846fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "顶级对话/2025-05-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-10"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +116,6 @@
       {
         "id": "74fcbaa7aad7ebe6",
         "type": "tabs",
-        "dimension": 59.63541666666667,
         "children": [
           {
             "id": "1e09e64b4c92c8fe",
@@ -113,9 +160,8 @@
         ]
       },
       {
-        "id": "6f56d48372b24a19",
+        "id": "2cb6688b85b813ae",
         "type": "tabs",
-        "dimension": 40.364583333333336,
         "children": [
           {
             "id": "23b12fc7a8e66c1c",
@@ -150,7 +196,7 @@
       {
         "id": "7ec9d4a487bb9146",
         "type": "tabs",
-        "dimension": 28.66666666666667,
+        "dimension": 27.477477477477475,
         "children": [
           {
             "id": "e02d7f8e1f58f2cb",
@@ -253,26 +299,9 @@
         "currentTab": 4
       },
       {
-        "id": "696d449f77b75314",
+        "id": "b03147a2d2a0e668",
         "type": "tabs",
-        "dimension": 41.86666666666667,
-        "children": [
-          {
-            "id": "f8d38eebeb7d3452",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
-      },
-      {
-        "id": "655c4a3629be9eee",
-        "type": "tabs",
-        "dimension": 29.46666666666667,
+        "dimension": 27.477477477477475,
         "children": [
           {
             "id": "deec856f87b978ff",
@@ -282,6 +311,23 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "关系图谱"
+            }
+          }
+        ]
+      },
+      {
+        "id": "696d449f77b75314",
+        "type": "tabs",
+        "dimension": 45.04504504504505,
+        "children": [
+          {
+            "id": "f8d38eebeb7d3452",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -304,15 +350,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "51aaef2d7d876ef9",
+  "active": "b1c6267d052846fb",
   "lastOpenFiles": [
+    "uv入门指南：更快的包管理工具实践.md",
+    "顶级对话/2025-05-10.md",
+    "顶级对话",
     "Python.md",
+    "Git教程/关于远程仓库.md",
+    "Git教程/在Git中设置用户名.md",
+    "Git教程/在Git中设置提交电子邮件地址.md",
+    "Git教程/Git入门.md",
     "RAG知识库问答系统.md",
     "langchain开发",
-    "uv入门指南：更快的包管理工具实践.md",
-    "Git教程/在Git中设置用户名.md",
     "Markdown笔记/Markdown基础语法.md",
-    "Git教程/在Git中设置提交电子邮件地址.md",
     "未命名看板.md",
     "未命名看板 1.md",
     "Python开发.md",
@@ -322,8 +372,6 @@
     "images/包安装示例.png",
     "images",
     "Markdown笔记/Markdown速查表.md",
-    "Git教程/Git入门.md",
-    "Git教程/关于远程仓库.md",
     "README.md",
     "Markdown笔记/Markdown扩展语法.md",
     "更改远程URL.md",
