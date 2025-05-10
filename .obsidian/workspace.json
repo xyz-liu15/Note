@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "顶级对话/2025-05-10.md",
+                "file": "Python学习笔记/3. Python 速览.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-10"
+              "title": "3. Python 速览"
             }
           }
         ],
@@ -352,10 +352,13 @@
   },
   "active": "b1c6267d052846fb",
   "lastOpenFiles": [
-    "uv入门指南：更快的包管理工具实践.md",
-    "顶级对话/2025-05-10.md",
-    "顶级对话",
+    "Python学习笔记/4. 更多控制流工具.md",
+    "Python学习笔记/3. Python 速览.md",
     "Python.md",
+    "Python学习笔记",
+    "顶级对话/2025-05-10.md",
+    "uv入门指南：更快的包管理工具实践.md",
+    "顶级对话",
     "Git教程/关于远程仓库.md",
     "Git教程/在Git中设置用户名.md",
     "Git教程/在Git中设置提交电子邮件地址.md",
