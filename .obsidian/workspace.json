@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/如何计算摘要统计.md",
+                "file": "数据分析/matplotlib入门/快速入门指南.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何计算摘要统计"
+              "title": "快速入门指南"
             }
           }
         ]
@@ -300,25 +300,28 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "deec856f87b978ff",
+  "active": "9e455275adb56468",
   "lastOpenFiles": [
-    "数据分析/如何计算摘要统计.md",
-    "数据分析/pandas处理什么类型的数据？.md",
-    "数据分析/如何读取和写入表格数据.md",
-    "数据分析/如何选择DataFrame的子集.md",
-    "数据分析/如何在pandas中创建图表.md",
-    "数据分析/如何从现有列派生新列.md",
-    "数据分析/如何重塑表格布局.md",
-    "数据分析/如何组合来自多个表的数据.md",
-    "数据分析/如何轻松处理时间序列数据.md",
-    "数据分析/如何操作文本数据.md",
+    "顶级对话/2025-05-10.md",
+    "数据分析/matplotlib入门/快速入门指南.md",
+    "数据分析/matplotlib入门",
+    "数据分析/pandas入门/如何读取和写入表格数据.md",
+    "数据分析/pandas入门/pandas处理什么类型的数据？.md",
+    "数据分析/pandas入门",
+    "数据分析/pandas入门/如何计算摘要统计.md",
+    "数据分析/pandas入门/如何选择DataFrame的子集.md",
+    "数据分析/pandas入门/如何在pandas中创建图表.md",
+    "数据分析/pandas入门/如何从现有列派生新列.md",
+    "数据分析/pandas入门/如何重塑表格布局.md",
+    "数据分析/pandas入门/如何组合来自多个表的数据.md",
+    "数据分析/pandas入门/如何轻松处理时间序列数据.md",
+    "数据分析/pandas入门/如何操作文本数据.md",
     "数据分析",
     "uv入门指南：更快的包管理工具实践.md",
     "Git教程/关于远程仓库.md",
     "Python学习笔记/Pytho速览.md",
     "Python学习笔记/4. 更多控制流工具.md",
     "Python学习笔记/3. Python 速览.md",
-    "顶级对话/2025-05-10.md",
     "Markdown笔记/Markdown速查表.md",
     "Python.md",
     "Python学习笔记",
@@ -331,7 +334,6 @@
     "Markdown笔记/Markdown基础语法.md",
     "未命名看板.md",
     "未命名看板 1.md",
-    "Python开发.md",
     "images/项目初始化示例.png",
     "images/打包结果.png",
     "images/工具安装后使用.png",

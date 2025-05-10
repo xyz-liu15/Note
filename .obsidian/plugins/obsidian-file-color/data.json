@@ -26,12 +26,27 @@
       "id": "0rvktw_aLXNcbQwbD40QU",
       "name": "顶级对话",
       "value": "#d41c9a"
+    },
+    {
+      "id": "PPFzuA6ENbFEwivacE1Ac",
+      "name": "数据分析",
+      "value": "#8e0b0b"
+    },
+    {
+      "id": "qunF1FbsVXhZ4rUlv1EZx",
+      "name": "langchain开发",
+      "value": "#5e0adb"
+    },
+    {
+      "id": "fSubwxrYbTbIs_7vp5rJ7",
+      "name": "Markdown笔记",
+      "value": "#503a4d"
     }
   ],
   "fileColors": [
     {
       "path": "Markdown笔记",
-      "color": "1v_hBKwHYCMZV5eXqod0B"
+      "color": "fSubwxrYbTbIs_7vp5rJ7"
     },
     {
       "path": "Markdown笔记/Markdown基础语法.md",
@@ -71,7 +86,7 @@
     },
     {
       "path": "langchain开发",
-      "color": "1v_hBKwHYCMZV5eXqod0B"
+      "color": "qunF1FbsVXhZ4rUlv1EZx"
     },
     {
       "path": "images",
@@ -80,6 +95,10 @@
     {
       "path": "顶级对话",
       "color": "0rvktw_aLXNcbQwbD40QU"
+    },
+    {
+      "path": "数据分析",
+      "color": "PPFzuA6ENbFEwivacE1Ac"
     }
   ]
 }

@@ -1,44 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "如何计算摘要统计",
-      "path": "数据分析/如何计算摘要统计.md"
+      "basename": "快速入门指南",
+      "path": "数据分析/matplotlib入门/快速入门指南.md"
     },
     {
-      "basename": "pandas处理什么类型的数据？",
-      "path": "数据分析/pandas处理什么类型的数据？.md"
+      "basename": "2025-05-10",
+      "path": "顶级对话/2025-05-10.md"
     },
     {
       "basename": "如何读取和写入表格数据",
-      "path": "数据分析/如何读取和写入表格数据.md"
+      "path": "数据分析/pandas入门/如何读取和写入表格数据.md"
+    },
+    {
+      "basename": "pandas处理什么类型的数据？",
+      "path": "数据分析/pandas入门/pandas处理什么类型的数据？.md"
+    },
+    {
+      "basename": "如何计算摘要统计",
+      "path": "数据分析/pandas入门/如何计算摘要统计.md"
     },
     {
       "basename": "如何选择DataFrame的子集",
-      "path": "数据分析/如何选择DataFrame的子集.md"
+      "path": "数据分析/pandas入门/如何选择DataFrame的子集.md"
     },
     {
       "basename": "如何在pandas中创建图表",
-      "path": "数据分析/如何在pandas中创建图表.md"
+      "path": "数据分析/pandas入门/如何在pandas中创建图表.md"
     },
     {
       "basename": "如何从现有列派生新列",
-      "path": "数据分析/如何从现有列派生新列.md"
+      "path": "数据分析/pandas入门/如何从现有列派生新列.md"
     },
     {
       "basename": "如何重塑表格布局",
-      "path": "数据分析/如何重塑表格布局.md"
+      "path": "数据分析/pandas入门/如何重塑表格布局.md"
     },
     {
       "basename": "如何组合来自多个表的数据",
-      "path": "数据分析/如何组合来自多个表的数据.md"
+      "path": "数据分析/pandas入门/如何组合来自多个表的数据.md"
     },
     {
       "basename": "如何轻松处理时间序列数据",
-      "path": "数据分析/如何轻松处理时间序列数据.md"
+      "path": "数据分析/pandas入门/如何轻松处理时间序列数据.md"
     },
     {
       "basename": "如何操作文本数据",
-      "path": "数据分析/如何操作文本数据.md"
+      "path": "数据分析/pandas入门/如何操作文本数据.md"
     },
     {
       "basename": "uv入门指南：更快的包管理工具实践",
@@ -47,10 +55,6 @@
     {
       "basename": "关于远程仓库",
       "path": "Git教程/关于远程仓库.md"
-    },
-    {
-      "basename": "2025-05-10",
-      "path": "顶级对话/2025-05-10.md"
     },
     {
       "basename": "Markdown速查表",
