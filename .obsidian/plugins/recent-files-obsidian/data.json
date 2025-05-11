@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "使用聊天模型和提示模板构建一个简单的 LLM 应用",
+      "path": "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md"
+    },
+    {
+      "basename": "基础",
+      "path": "langgraph学习/基础.md"
+    },
+    {
+      "basename": "uv入门指南：更快的包管理工具实践",
+      "path": "uv入门指南：更快的包管理工具实践.md"
+    },
+    {
       "basename": "快速入门指南",
       "path": "数据分析/matplotlib入门/快速入门指南.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "如何操作文本数据",
       "path": "数据分析/pandas入门/如何操作文本数据.md"
-    },
-    {
-      "basename": "uv入门指南：更快的包管理工具实践",
-      "path": "uv入门指南：更快的包管理工具实践.md"
     },
     {
       "basename": "关于远程仓库",
