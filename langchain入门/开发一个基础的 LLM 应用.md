@@ -23,7 +23,7 @@ def get_api_key(key):
 然后，获取DEEPSEEK_API_KEY,LANGSMITH_API_KEY。
 
 ```jupyter
-os.environ["LANGSMITH_TRACING"] = "true" 
+os.environ["LANGSMITH_TRACING"] = "true"  # **启用 LangSmith 的追踪功能**，它会将应用程序的调用链（如 LLM 请求、工具调用等）记录到 LangSmith 平台，便于调试和分析。
 
 get_api_key("DEEPSEEK_API_KEY")
 
