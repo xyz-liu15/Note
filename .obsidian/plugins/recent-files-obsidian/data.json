@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "使用聊天模型和提示模板构建一个简单的 LLM 应用",
-      "path": "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md"
+      "basename": "开发一个基础的 LLM 应用",
+      "path": "langchain入门/开发一个基础的 LLM 应用.md"
+    },
+    {
+      "basename": "langchain架构",
+      "path": "langchain入门/langchain架构.md"
     },
     {
       "basename": "基础",
