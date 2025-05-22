@@ -1,38 +1,24 @@
-
-
-
-          
-我需要查看当前文件的内容，以便优化其排版和格式，使其更具阅读美感。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: d:\Note\Miniconda教程.md
-          
 # Miniconda 教程
 
 ## 1. 安装
 
 在[这里](https://www.anaconda.com/download/success)访问官方网站以下载 Miniconda 最新版本。下载完成后，按照以下步骤进行安装：
 
-![安装步骤1](Miniconda_1.png)
+![安装步骤1](images/Miniconda_1.png)
 
-![安装步骤2](Miniconda_2.png)
+![安装步骤2](images/Miniconda_2.png)
 
-![安装步骤3](Miniconda_3.png)
+![安装步骤3](images/Miniconda_3.png)
 
-![安装步骤4](Miniconda_4.png)
+![安装步骤4](images/Miniconda_4.png)
 
-![安装步骤5](Miniconda_5.png)
+![安装步骤5](images/Miniconda_5.png)
 
 > 注意：出现以下弹窗直接关闭即可。
 
-![提示窗口](proceed.png)
+![提示窗口](images/proceed.png)
 
-![安装步骤6](Miniconda_6.png)
+![安装步骤6](images/Miniconda_6.png)
 
 ---
 
@@ -122,7 +108,7 @@ conda create --name python_dev python=3.12.7
 - `--name python_dev`：指定新环境的名称为 "python_dev"
 - `python=3.12.7`：指定要安装的 Python 版本为 3.12.7
 
-![创建环境](conda_activate.png)
+![创建环境](images/conda_activate.png)
 
 ### 3.2 激活虚拟环境
 
@@ -145,5 +131,5 @@ conda install jupyterlab pyecharts pandas numpy matplotlib
 
 安装成功后，运行 **jupyter lab** 命令，创建 python_dev 文件夹以及一个 data_analyse.ipynb 文件。
 
-![数据分析文件](data_analyse.png)
+![数据分析文件](images/data_analyse.png)
         
