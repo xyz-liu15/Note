@@ -104,3 +104,4 @@ conda install jupyterlab pyecharts pandas numpy matplotlib
 
 安装成功后，运行**jupyter lab**命令，创建python_dev文件夹以及一个data_analyse.ipynb文件。
 ![[data_analyse.png]]
+![[/images/data_analyse.png]]
