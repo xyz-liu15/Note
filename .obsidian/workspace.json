@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langchain入门/langchain架构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "langchain架构"
-            }
-          },
-          {
-            "id": "71bdeda6a2971b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Miniconda教程.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "Miniconda教程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,7 @@
       {
         "id": "74fcbaa7aad7ebe6",
         "type": "tabs",
-        "dimension": 37.09884467265726,
+        "dimension": 40.39125431530495,
         "children": [
           {
             "id": "1e09e64b4c92c8fe",
@@ -115,7 +90,7 @@
       {
         "id": "2cb6688b85b813ae",
         "type": "tabs",
-        "dimension": 37.22721437740693,
+        "dimension": 36.59378596087457,
         "children": [
           {
             "id": "23b12fc7a8e66c1c",
@@ -142,7 +117,7 @@
       {
         "id": "99c3c6d7b60be953",
         "type": "tabs",
-        "dimension": 25.67394094993581,
+        "dimension": 23.014959723820482,
         "children": [
           {
             "id": "df98b8886a5a5644",
@@ -325,20 +300,21 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "71bdeda6a2971b9e",
+  "active": "05d4ebc6311bfefd",
   "lastOpenFiles": [
+    "Python.md",
+    "images/f804a0d9a7583370e0e1f4095668bfe.png",
+    "images/d05138552dbe9fff2f25b159a5a7645.png",
+    "images/d4b553e54c6a148684a46c7eb56e753.png",
+    "images/cd6e0373c50ae55ae424d5f3bc6f3b4.png",
+    "images/16cea31b183dcc90b2981246108041d.png",
+    "images/9d28a71066925e21f0aa3473491b35a.png",
+    "images/9a0b20377b89f6f6247ee6f0d4607cf.png",
+    "images/7df56a2337207583a81b2ae45883463.png",
+    "images/7a293222ada7ecc978589def79d98ce.png",
+    "images/6cf936fb3c376176728d08c3e288fc4.png",
     "langchain入门/langchain架构.md",
     "Miniconda教程.md",
-    "d05138552dbe9fff2f25b159a5a7645.png",
-    "9a0b20377b89f6f6247ee6f0d4607cf.png",
-    "7a293222ada7ecc978589def79d98ce.png",
-    "9d28a71066925e21f0aa3473491b35a.png",
-    "7df56a2337207583a81b2ae45883463.png",
-    "cd6e0373c50ae55ae424d5f3bc6f3b4.png",
-    "f804a0d9a7583370e0e1f4095668bfe.png",
-    "d4b553e54c6a148684a46c7eb56e753.png",
-    "6cf936fb3c376176728d08c3e288fc4.png",
-    "16cea31b183dcc90b2981246108041d.png",
     "langchain入门/建立一个聊天机器人.md",
     "langchain入门/开发一个基础的 LLM 应用.md",
     "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md",

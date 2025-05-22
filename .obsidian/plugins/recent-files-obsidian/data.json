@@ -5,6 +5,10 @@
       "path": "Miniconda教程.md"
     },
     {
+      "basename": "Python",
+      "path": "Python.md"
+    },
+    {
       "basename": "langchain架构",
       "path": "langchain入门/langchain架构.md"
     },
