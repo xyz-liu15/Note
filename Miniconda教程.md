@@ -1,18 +1,20 @@
 ## 安装
 
-![[16cea31b183dcc90b2981246108041d.png]]
-
-![[6cf936fb3c376176728d08c3e288fc4.png]]
-
-![[d4b553e54c6a148684a46c7eb56e753.png]]
 
 
-![[f804a0d9a7583370e0e1f4095668bfe.png]]
+![[Miniconda_1.png]]
 
-![[cd6e0373c50ae55ae424d5f3bc6f3b4.png]]
+![[Miniconda_2.png]]
+
+![[Miniconda_3.png]]
+
+
+![[Miniconda_4.png]]
+
+![[Miniconda_5.png]]
 
 出现以下弹窗直接关闭即可。
-![[7df56a2337207583a81b2ae45883463.png]]![[9d28a71066925e21f0aa3473491b35a.png]]
+![[proceed.png]]![[Miniconda_6.png]]
 ## 配置Miniconda
 
 首先，打开Anaconda PowerShell Prompt或者Anaconda Prompt。依次运行以下代码以配置清华镜像源：
@@ -67,7 +69,7 @@ conda config --show custom_channels
 
 显示所有自定义命名的 channel 及其对应的 URL 映射关系。
 
-![[7a293222ada7ecc978589def79d98ce.png]]
+![[channels.png]]
 
 创建虚拟环境：
 
@@ -81,7 +83,7 @@ conda create --name python_dev python=3.12.7
 - `--name python_dev`：指定新环境的名称为 "python_dev"
 - `python=3.12.7`：指定要安装的 Python 版本为 3.12.7
 
-![[9a0b20377b89f6f6247ee6f0d4607cf.png]]
+![[conda_activate.png]]
 
 激活虚拟环境：
 
@@ -101,4 +103,4 @@ conda install jupyterlab pyecharts pandas numpy matplotlib
 - `jupyterlab pyecharts pandas numpy matplotlib`：要安装的包列表（多个包用空格分隔）
 
 安装成功后，运行**jupyter lab**命令，创建python_dev文件夹以及一个data_analyse.ipynb文件。
-![[d05138552dbe9fff2f25b159a5a7645.png]]
+![[data_analyse.png]]

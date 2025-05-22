@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4955569a9fd1925f",
+        "id": "c0c17c0ae1287f59",
         "type": "tabs",
         "children": [
           {
-            "id": "05d4ebc6311bfefd",
+            "id": "51703c248f9662ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -300,21 +300,22 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "05d4ebc6311bfefd",
+  "active": "51703c248f9662ef",
   "lastOpenFiles": [
-    "Python.md",
-    "images/f804a0d9a7583370e0e1f4095668bfe.png",
-    "images/d05138552dbe9fff2f25b159a5a7645.png",
-    "images/d4b553e54c6a148684a46c7eb56e753.png",
-    "images/cd6e0373c50ae55ae424d5f3bc6f3b4.png",
-    "images/16cea31b183dcc90b2981246108041d.png",
-    "images/9d28a71066925e21f0aa3473491b35a.png",
-    "images/9a0b20377b89f6f6247ee6f0d4607cf.png",
-    "images/7df56a2337207583a81b2ae45883463.png",
-    "images/7a293222ada7ecc978589def79d98ce.png",
-    "images/6cf936fb3c376176728d08c3e288fc4.png",
-    "langchain入门/langchain架构.md",
+    "images/channels.png",
+    "images/channles.png",
+    "images/proceed.png",
+    "images/conda_activate.png",
+    "images/data_analyse.png",
+    "images/Miniconda_1.png",
     "Miniconda教程.md",
+    "images/Miniconda_6.png",
+    "images/Miniconda_5.png",
+    "images/Miniconda_4.png",
+    "images/Miniconda_3.png",
+    "images/Miniconda_2.png",
+    "Python.md",
+    "langchain入门/langchain架构.md",
     "langchain入门/建立一个聊天机器人.md",
     "langchain入门/开发一个基础的 LLM 应用.md",
     "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md",
@@ -342,7 +343,6 @@
     "Git教程/关于远程仓库.md",
     "Python学习笔记/Pytho速览.md",
     "Python学习笔记/4. 更多控制流工具.md",
-    "Python学习笔记/3. Python 速览.md",
     "Python学习笔记",
     "顶级对话",
     "langchain入门",
