@@ -5,12 +5,8 @@
       "path": "Miniconda教程.md"
     },
     {
-      "basename": "Miniconda_1",
-      "path": "images/Miniconda_1.png"
-    },
-    {
-      "basename": "Python",
-      "path": "Python.md"
+      "basename": "关于远程仓库",
+      "path": "Git教程/关于远程仓库.md"
     },
     {
       "basename": "langchain架构",
@@ -23,6 +19,14 @@
     {
       "basename": "开发一个基础的 LLM 应用",
       "path": "langchain入门/开发一个基础的 LLM 应用.md"
+    },
+    {
+      "basename": "Miniconda_1",
+      "path": "images/Miniconda_1.png"
+    },
+    {
+      "basename": "Python",
+      "path": "Python.md"
     },
     {
       "basename": "基础",
@@ -79,10 +83,6 @@
     {
       "basename": "如何操作文本数据",
       "path": "数据分析/pandas入门/如何操作文本数据.md"
-    },
-    {
-      "basename": "关于远程仓库",
-      "path": "Git教程/关于远程仓库.md"
     },
     {
       "basename": "Markdown速查表",

@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,22 +303,22 @@
   },
   "active": "51703c248f9662ef",
   "lastOpenFiles": [
+    "Miniconda教程.md",
+    "Git教程/关于远程仓库.md",
+    "langchain入门/langchain架构.md",
+    "langchain入门/建立一个聊天机器人.md",
+    "langchain入门/开发一个基础的 LLM 应用.md",
     "images/channels.png",
     "images/channles.png",
     "images/proceed.png",
     "images/conda_activate.png",
     "images/data_analyse.png",
     "images/Miniconda_1.png",
-    "Miniconda教程.md",
     "images/Miniconda_6.png",
     "images/Miniconda_5.png",
     "images/Miniconda_4.png",
     "images/Miniconda_3.png",
-    "images/Miniconda_2.png",
     "Python.md",
-    "langchain入门/langchain架构.md",
-    "langchain入门/建立一个聊天机器人.md",
-    "langchain入门/开发一个基础的 LLM 应用.md",
     "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md",
     "langgraph学习/基础.md",
     "langgraph学习/basics.md",
@@ -340,7 +341,6 @@
     "数据分析/pandas入门/如何轻松处理时间序列数据.md",
     "数据分析/pandas入门/如何操作文本数据.md",
     "数据分析",
-    "Git教程/关于远程仓库.md",
     "Python学习笔记/Pytho速览.md",
     "Python学习笔记/4. 更多控制流工具.md",
     "Python学习笔记",
