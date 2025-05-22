@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "开发一个基础的 LLM 应用",
-      "path": "langchain入门/开发一个基础的 LLM 应用.md"
+      "basename": "Miniconda教程",
+      "path": "Miniconda教程.md"
     },
     {
       "basename": "langchain架构",
       "path": "langchain入门/langchain架构.md"
+    },
+    {
+      "basename": "建立一个聊天机器人",
+      "path": "langchain入门/建立一个聊天机器人.md"
+    },
+    {
+      "basename": "开发一个基础的 LLM 应用",
+      "path": "langchain入门/开发一个基础的 LLM 应用.md"
     },
     {
       "basename": "基础",
