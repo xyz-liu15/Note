@@ -69,7 +69,7 @@ conda config --show custom_channels
 
 显示所有自定义命名的 channel 及其对应的 URL 映射关系。
 
-![[channels.png]]
+![[images/channels.png]]
 
 创建虚拟环境：
 
