@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/pandas入门/iloc与loc的使用.md",
+                "file": "数据分析/pandas入门/分组聚合操作.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iloc与loc的使用"
+              "title": "分组聚合操作"
             }
           }
         ]
@@ -302,8 +302,10 @@
   },
   "active": "51703c248f9662ef",
   "lastOpenFiles": [
-    "Git教程/关于远程仓库.md",
+    "数据分析/pandas入门/如何轻松处理时间序列数据.md",
+    "数据分析/pandas入门/分组聚合操作.md",
     "数据分析/pandas入门/iloc与loc的使用.md",
+    "Git教程/关于远程仓库.md",
     "Miniconda教程.md",
     "langchain入门/langchain架构.md",
     "langchain入门/建立一个聊天机器人.md",
@@ -338,11 +340,9 @@
     "数据分析/pandas入门/如何从现有列派生新列.md",
     "数据分析/pandas入门/如何重塑表格布局.md",
     "数据分析/pandas入门/如何组合来自多个表的数据.md",
-    "数据分析/pandas入门/如何轻松处理时间序列数据.md",
     "数据分析/pandas入门/如何操作文本数据.md",
     "数据分析",
     "Python学习笔记/Pytho速览.md",
-    "Python学习笔记/4. 更多控制流工具.md",
     "Python学习笔记",
     "顶级对话",
     "langchain入门",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "分组聚合操作",
+      "path": "数据分析/pandas入门/分组聚合操作.md"
+    },
+    {
+      "basename": "如何轻松处理时间序列数据",
+      "path": "数据分析/pandas入门/如何轻松处理时间序列数据.md"
+    },
+    {
       "basename": "iloc与loc的使用",
       "path": "数据分析/pandas入门/iloc与loc的使用.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "如何组合来自多个表的数据",
       "path": "数据分析/pandas入门/如何组合来自多个表的数据.md"
-    },
-    {
-      "basename": "如何轻松处理时间序列数据",
-      "path": "数据分析/pandas入门/如何轻松处理时间序列数据.md"
     },
     {
       "basename": "如何操作文本数据",
