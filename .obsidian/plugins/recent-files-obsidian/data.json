@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Miniconda教程",
-      "path": "Miniconda教程.md"
+      "basename": "iloc与loc的使用",
+      "path": "数据分析/pandas入门/iloc与loc的使用.md"
     },
     {
       "basename": "关于远程仓库",
       "path": "Git教程/关于远程仓库.md"
+    },
+    {
+      "basename": "Miniconda教程",
+      "path": "Miniconda教程.md"
     },
     {
       "basename": "langchain架构",

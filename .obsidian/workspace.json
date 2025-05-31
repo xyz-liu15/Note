@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miniconda教程.md",
+                "file": "数据分析/pandas入门/iloc与loc的使用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Miniconda教程"
+              "title": "iloc与loc的使用"
             }
           }
         ]
@@ -117,7 +117,7 @@
       {
         "id": "99c3c6d7b60be953",
         "type": "tabs",
-        "dimension": 23.014959723820482,
+        "dimension": 23.014959723820485,
         "children": [
           {
             "id": "df98b8886a5a5644",
@@ -284,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,17 +293,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "omnisearch:Omnisearch": false,
       "graph:查看关系图谱": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:创建新看板": false
     }
   },
   "active": "51703c248f9662ef",
   "lastOpenFiles": [
-    "Miniconda教程.md",
     "Git教程/关于远程仓库.md",
+    "数据分析/pandas入门/iloc与loc的使用.md",
+    "Miniconda教程.md",
     "langchain入门/langchain架构.md",
     "langchain入门/建立一个聊天机器人.md",
     "langchain入门/开发一个基础的 LLM 应用.md",
