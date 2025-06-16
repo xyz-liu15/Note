@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51703c248f9662ef",
+            "id": "c1559affc9283701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/pandas入门/分组聚合操作.md",
+                "file": "物流与供应链管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "分组聚合操作"
+              "title": "物流与供应链管理"
             }
           }
         ]
@@ -300,12 +300,24 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "51703c248f9662ef",
+  "active": "c1559affc9283701",
   "lastOpenFiles": [
-    "数据分析/pandas入门/如何轻松处理时间序列数据.md",
-    "数据分析/pandas入门/分组聚合操作.md",
-    "数据分析/pandas入门/iloc与loc的使用.md",
+    "鲜果汇_数字化转型效果图.png",
+    "折线图.png",
+    "物流与供应链管理.md",
+    "马尔可夫分析.md",
+    "数据决策与预测.md",
+    "用户收视与支付行为分析报告.md",
+    "数据分析报告：媒体内容消费与支付行为洞察.md",
+    "未命名",
+    "RAG知识库问答系统.md",
     "Git教程/关于远程仓库.md",
+    "Git教程/在Git中设置提交电子邮件地址.md",
+    "Git教程/在Git中设置用户名.md",
+    "Git教程/Git入门.md",
+    "数据分析/pandas入门/分组聚合操作.md",
+    "数据分析/pandas入门/如何轻松处理时间序列数据.md",
+    "数据分析/pandas入门/iloc与loc的使用.md",
     "Miniconda教程.md",
     "langchain入门/langchain架构.md",
     "langchain入门/建立一个聊天机器人.md",
@@ -319,7 +331,6 @@
     "images/Miniconda_6.png",
     "images/Miniconda_5.png",
     "images/Miniconda_4.png",
-    "images/Miniconda_3.png",
     "Python.md",
     "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md",
     "langgraph学习/基础.md",
@@ -331,22 +342,11 @@
     "未命名 1",
     "顶级对话/2025-05-10.md",
     "数据分析/matplotlib入门",
-    "数据分析/pandas入门/如何读取和写入表格数据.md",
-    "数据分析/pandas入门/pandas处理什么类型的数据？.md",
     "数据分析/pandas入门",
-    "数据分析/pandas入门/如何计算摘要统计.md",
-    "数据分析/pandas入门/如何选择DataFrame的子集.md",
-    "数据分析/pandas入门/如何在pandas中创建图表.md",
-    "数据分析/pandas入门/如何从现有列派生新列.md",
-    "数据分析/pandas入门/如何重塑表格布局.md",
-    "数据分析/pandas入门/如何组合来自多个表的数据.md",
-    "数据分析/pandas入门/如何操作文本数据.md",
     "数据分析",
-    "Python学习笔记/Pytho速览.md",
     "Python学习笔记",
     "顶级对话",
     "langchain入门",
-    "images",
-    "Git教程"
+    "images"
   ]
 }
