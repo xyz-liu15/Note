@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux学习/命令行基础.md",
+                "file": "Linux学习/第二章 文本处理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "命令行基础"
+              "title": "第二章 文本处理"
             }
           }
         ]
@@ -284,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,6 +302,9 @@
   },
   "active": "b671bc517f3d88eb",
   "lastOpenFiles": [
+    "Linux学习/第一章 命令行基础.md",
+    "Linux学习/第二章 文本处理.md",
+    "Linux学习/未命名",
     "鲜果汇_数字化转型效果图.png",
     "马尔可夫分析.md",
     "百果园数字化转型中的生鲜损耗控制策略研究.md",
@@ -320,9 +322,7 @@
     "images/项目初始化示例.png",
     "images/工具安装后使用.png",
     "images/proceed.png",
-    "images/包安装示例.png",
     "images",
-    "Linux学习/命令行基础.md",
     "Linux学习",
     "心理论文.md",
     "未命名.md",
@@ -347,7 +347,6 @@
     "数据分析/pandas入门",
     "数据分析",
     "Python学习笔记",
-    "顶级对话",
-    "langchain入门"
+    "顶级对话"
   ]
 }

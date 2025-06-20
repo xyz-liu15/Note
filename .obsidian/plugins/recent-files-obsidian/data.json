@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "命令行基础",
-      "path": "Linux学习/命令行基础.md"
+      "basename": "第二章 文本处理",
+      "path": "Linux学习/第二章 文本处理.md"
     },
     {
-      "basename": "pwd",
-      "path": "pwd.png"
+      "basename": "第一章 命令行基础",
+      "path": "Linux学习/第一章 命令行基础.md"
     },
     {
       "basename": "uv入门指南：更快的包管理工具实践",
@@ -15,26 +15,6 @@
     {
       "basename": "Python",
       "path": "Python.md"
-    },
-    {
-      "basename": "百果园数字化转型中的生鲜损耗控制策略研究",
-      "path": "百果园数字化转型中的生鲜损耗控制策略研究.md"
-    },
-    {
-      "basename": "马尔可夫分析",
-      "path": "马尔可夫分析.md"
-    },
-    {
-      "basename": "数据决策与预测",
-      "path": "数据决策与预测.md"
-    },
-    {
-      "basename": "用户收视与支付行为分析报告",
-      "path": "用户收视与支付行为分析报告.md"
-    },
-    {
-      "basename": "数据分析报告：媒体内容消费与支付行为洞察",
-      "path": "数据分析报告：媒体内容消费与支付行为洞察.md"
     },
     {
       "basename": "RAG知识库问答系统",
@@ -57,16 +37,8 @@
       "path": "Git教程/Git入门.md"
     },
     {
-      "basename": "分组聚合操作",
-      "path": "数据分析/pandas入门/分组聚合操作.md"
-    },
-    {
       "basename": "如何轻松处理时间序列数据",
       "path": "数据分析/pandas入门/如何轻松处理时间序列数据.md"
-    },
-    {
-      "basename": "iloc与loc的使用",
-      "path": "数据分析/pandas入门/iloc与loc的使用.md"
     },
     {
       "basename": "Miniconda教程",
@@ -83,10 +55,6 @@
     {
       "basename": "开发一个基础的 LLM 应用",
       "path": "langchain入门/开发一个基础的 LLM 应用.md"
-    },
-    {
-      "basename": "Miniconda_1",
-      "path": "images/Miniconda_1.png"
     },
     {
       "basename": "基础",
