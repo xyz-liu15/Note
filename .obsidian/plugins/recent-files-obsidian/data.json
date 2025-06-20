@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "物流与供应链管理",
-      "path": "物流与供应链管理.md"
+      "basename": "命令行基础",
+      "path": "Linux学习/命令行基础.md"
+    },
+    {
+      "basename": "pwd",
+      "path": "pwd.png"
+    },
+    {
+      "basename": "uv入门指南：更快的包管理工具实践",
+      "path": "uv入门指南：更快的包管理工具实践.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Python.md"
+    },
+    {
+      "basename": "百果园数字化转型中的生鲜损耗控制策略研究",
+      "path": "百果园数字化转型中的生鲜损耗控制策略研究.md"
     },
     {
       "basename": "马尔可夫分析",
@@ -73,16 +89,8 @@
       "path": "images/Miniconda_1.png"
     },
     {
-      "basename": "Python",
-      "path": "Python.md"
-    },
-    {
       "basename": "基础",
       "path": "langgraph学习/基础.md"
-    },
-    {
-      "basename": "uv入门指南：更快的包管理工具实践",
-      "path": "uv入门指南：更快的包管理工具实践.md"
     },
     {
       "basename": "快速入门指南",
