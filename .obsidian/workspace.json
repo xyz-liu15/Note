@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux学习/第二章 文本处理.md",
+                "file": "Linux学习/高级文本处理功能.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第二章 文本处理"
+              "title": "高级文本处理功能"
             }
           }
         ]
@@ -303,6 +303,7 @@
   "active": "b671bc517f3d88eb",
   "lastOpenFiles": [
     "Linux学习/第二章 文本处理.md",
+    "Linux学习/高级文本处理功能.md",
     "Linux学习/第一章 命令行基础.md",
     "Linux学习/未命名",
     "鲜果汇_数字化转型效果图.png",
@@ -341,7 +342,6 @@
     "langchain入门/langchain架构.md",
     "langchain入门/建立一个聊天机器人.md",
     "langchain入门/开发一个基础的 LLM 应用.md",
-    "langchain入门/使用聊天模型和提示模板构建一个简单的 LLM 应用.md",
     "langgraph学习",
     "数据分析/matplotlib入门",
     "数据分析/pandas入门",
