@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux学习/高级文本处理功能.md",
+                "file": "Linux学习/第七章 软件包.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "高级文本处理功能"
+              "title": "第七章 软件包"
             }
           }
         ]
@@ -302,8 +302,12 @@
   },
   "active": "b671bc517f3d88eb",
   "lastOpenFiles": [
+    "Linux学习/第六章 进程.md",
+    "Linux学习/第七章 软件包.md",
+    "Linux学习/第五章 权限.md",
+    "Linux学习/第四章 用户管理.md",
+    "Linux学习/第三章 高级文本处理功能.md",
     "Linux学习/第二章 文本处理.md",
-    "Linux学习/高级文本处理功能.md",
     "Linux学习/第一章 命令行基础.md",
     "Linux学习/未命名",
     "鲜果汇_数字化转型效果图.png",
@@ -338,10 +342,6 @@
     "Git教程/在Git中设置用户名.md",
     "Git教程/Git入门.md",
     "数据分析/pandas入门/如何轻松处理时间序列数据.md",
-    "Miniconda教程.md",
-    "langchain入门/langchain架构.md",
-    "langchain入门/建立一个聊天机器人.md",
-    "langchain入门/开发一个基础的 LLM 应用.md",
     "langgraph学习",
     "数据分析/matplotlib入门",
     "数据分析/pandas入门",
